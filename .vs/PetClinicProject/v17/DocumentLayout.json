@@ -3,68 +3,56 @@
   "WorkspaceRootPath": "D:\\Pet-Clinic-System\\PetClinicProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\vaccinerecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\vaccinerecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\vaccinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\vaccinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\models\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:models\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\treatmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\treatmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\prescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\prescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\diagnostictestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\diagnostictestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\consultationtreatmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\consultationtreatmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\consultationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\consultationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\billingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\billingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\controllers\\billingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:controllers\\billingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\models\\petcliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:models\\petcliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\views\\home\\vetdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:views\\home\\vetdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\models\\vetdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:models\\vetdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\views\\home\\staffdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:views\\home\\staffdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|d:\\pet-clinic-system\\petclinicproject\\views\\home\\clientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391294EA-A328-47F2-8B16-F7FAF054C1C3}|PetClinicProject.csproj|solutionrelative:views\\home\\clientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,211 +70,160 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:36:25.828Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VaccineRecordsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\VaccineRecordsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VaccineRecordsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\VaccineRecordsController.cs",
-              "RelativeToolTip": "Controllers\\VaccineRecordsController.cs",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:18:54.051Z",
+              "WhenOpened": "2025-08-10T05:36:08.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminDashboardViewModel.cs",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "Models\\AdminDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:23:51.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:03:01.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:43:44.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VaccinationsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\VaccinationsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VaccinationsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\VaccinationsController.cs",
-              "RelativeToolTip": "Controllers\\VaccinationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:18:10.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:17:01.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T05:15:29.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TreatmentsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\TreatmentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TreatmentsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\TreatmentsController.cs",
-              "RelativeToolTip": "Controllers\\TreatmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:48:15.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PrescriptionsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\PrescriptionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PrescriptionsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\PrescriptionsController.cs",
-              "RelativeToolTip": "Controllers\\PrescriptionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:33:26.906Z",
-              "EditorCaption": ""
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T05:23:59.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:32:10.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OwnersController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\OwnersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OwnersController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\OwnersController.cs",
-              "RelativeToolTip": "Controllers\\OwnersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:31:29.504Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T05:35:55.878Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DiagnosticTestsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\DiagnosticTestsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DiagnosticTestsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\DiagnosticTestsController.cs",
-              "RelativeToolTip": "Controllers\\DiagnosticTestsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:29:31.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConsultationTreatmentsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\ConsultationTreatmentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ConsultationTreatmentsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\ConsultationTreatmentsController.cs",
-              "RelativeToolTip": "Controllers\\ConsultationTreatmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:28:36.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ConsultationsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\ConsultationsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ConsultationsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\ConsultationsController.cs",
-              "RelativeToolTip": "Controllers\\ConsultationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:22:18.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BillingDetailsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\BillingDetailsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BillingDetailsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\BillingDetailsController.cs",
-              "RelativeToolTip": "Controllers\\BillingDetailsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:21:43.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BillingsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\BillingsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BillingsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\BillingsController.cs",
-              "RelativeToolTip": "Controllers\\BillingsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:20:47.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppointmentsController.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\AppointmentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Controllers\\AppointmentsController.cs",
-              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:18:51.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PetClinicContext.cs",
-              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\PetClinicContext.cs",
-              "RelativeDocumentMoniker": "Models\\PetClinicContext.cs",
-              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\PetClinicContext.cs",
-              "RelativeToolTip": "Models\\PetClinicContext.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwCUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:13:33.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-01T06:45:47.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T08:09:00.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:10:24.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VetDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\VetDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\VetDashboardViewModel.cs",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Models\\VetDashboardViewModel.cs",
+              "RelativeToolTip": "Models\\VetDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:59:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VetDashboard.cshtml",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\VetDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\VetDashboard.cshtml",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\VetDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\VetDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T07:41:49.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaffDashboard.cshtml",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\StaffDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\StaffDashboard.cshtml",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\StaffDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\StaffDashboard.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T07:51:48.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientDashboard.cshtml",
+              "DocumentMoniker": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\ClientDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ClientDashboard.cshtml",
+              "ToolTip": "D:\\Pet-Clinic-System\\PetClinicProject\\Views\\Home\\ClientDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\ClientDashboard.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowFUCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T07:38:27.956Z"
             }
           ]
         }
